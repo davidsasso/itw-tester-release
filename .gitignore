@@ -1,0 +1,3 @@
+# Ignora todos los archivos de cache de python
+
+/deploy/Tester/_internal/engine/settings/data/zpl_file.txt
