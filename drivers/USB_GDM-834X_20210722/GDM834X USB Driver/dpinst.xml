@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<dpinst>
+<enableNotListedLanguages/>
+<language code="0x0401">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0804">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0404">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0405">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0406">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0407">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0408">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0409">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0C0A">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x040B">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x040C">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x040D">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x040E">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0410">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0411">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0412">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0414">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0413">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0415">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0416">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0816">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x0419">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x041D">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+<language code="0x041F">
+<dpinstTitle> USB to UART Bridge Driver Installer</dpinstTitle>
+<welcomeTitle>Welcome to the  USB to UART Bridge Driver Installer</welcomeTitle>
+<welcomeIntro>This wizard will help you install the drivers for your  USB to UART Bridge device.</welcomeIntro>
+<eula type="txt" path="SLAB_License_Agreement_VCP_Windows.txt"/>
+<finishTitle>Completing the Installation of the  USB to UART Bridge Driver</finishTitle>
+</language>
+</dpinst>
